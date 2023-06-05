@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+        
+  
+  
+  <modelVersion>4.0.0</modelVersion>
+        
+  
+  
+  <parent>
+                
+    
+    
+    <artifactId>implementations</artifactId>
+                
+    
+    
+    <groupId>com.fciencias.evolutivo</groupId>
+                
+    
+    
+    <version>1.0.0</version>
+              
+  
+  
+  </parent>
+        
+  
+  
+  <groupId>com.fciencias.evolutivo.implementations</groupId>
+        
+  
+  
+  <artifactId>tarea-3</artifactId>
+        
+  
+  
+  <version>1.0.0</version>
+        
+  
+  
+  <packaging>pom</packaging>
+        
+  
+  
+  <name>tarea-3</name>
+        
+  
+  
+  <url>https://github.com/JulsVazquez/Evolutivo-2023-2</url>
+        
+  
+  
+  <properties>
+                
+    
+    
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+                
+    
+    
+    <maven.compiler.source>1.7</maven.compiler.source>
+                
+    
+    
+    <maven.compiler.target>1.7</maven.compiler.target>
+              
+  
+  
+  </properties>
+        
+  
+  
+  <modules>
+                
+    
+      
+    
+    
+    <module>recocido</module>
+          
+    
+    <module>local-iterative-search</module>
+      
+  </modules>
+      
+
+
+</project>
